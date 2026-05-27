@@ -5,19 +5,19 @@
 [Website](https://biosymphony.github.io/)
 
 BioSymphony builds open toolkits that help scientists use coding agents on
-real biological research tasks. The repos here give agents enough structure to
-search, plan, run small checks, organize results, and hand work back in a form
-scientists can read and improve.
+real biological research tasks. Each repo gives the agent a defined place to
+start: local instructions, public or synthetic examples, small checks, and
+templates for turning broad questions into work a scientist can review and
+extend.
 
-The common pattern is simple: describe the goal, point the agent at the
-repo-local instructions, run the first demo locally, then grow into a larger
-workflow when the direction is useful.
+A typical use starts with a specific research goal, runs the smallest local
+demo, and expands from there when the result is worth pursuing.
 
 ## Start Here
 
 - [BioProspector](https://github.com/BioSymphony/biosymphony-bioprospector)
   explores biosynthetic routes to target molecules, finds enzyme and gene
-  candidates, and turns pathway ideas into concrete follow-up work.
+  candidates, and turns pathway ideas into follow-up searches and experiments.
 - [GeneCluster](https://github.com/BioSymphony/biosymphony-genecluster) runs
   natural-product genome-mining campaigns across public plant, fungal, and
   microbial data sources.
@@ -32,15 +32,14 @@ workflow when the direction is useful.
 
 - Agent instructions in `AGENTS.md` and repo-local skill packs.
 - Local demos that use synthetic fixtures or explicitly public inputs.
-- Small command-line checks that help an agent catch simple mistakes early.
-- Examples and templates that turn broad scientific questions into bounded
-  pieces of work.
+- Small command-line checks that catch setup and formatting issues early.
+- Templates that turn broad scientific questions into bounded pieces of work.
 - Paths from local runs to operator-owned cloud, HPC, or GPU resources when a
   task needs more compute.
 
 ## Using Them With An Agent
 
-1. Pick the toolkit that matches your research workflow.
+1. Choose the toolkit that matches your research workflow.
 2. Read the repository `README.md` and `AGENTS.md`.
 3. Run the local smoke test or demo before giving an agent a larger task.
 4. Point your coding agent at the repo-local skill pack.
