@@ -1,59 +1,69 @@
 # BioSymphony
 
-**Agentic AI infrastructure for biological research.**
+**AI agent tools for biological research.**
 
-BioSymphony builds public, agent-readable toolkits for turning biological
-research goals into reviewable workflows: durable manifests, schema-checked
-artifacts, provenance records, claim boundaries, and local-to-cloud execution
-plans.
+BioSymphony builds open toolkits that help scientists use coding agents on
+real biological research tasks. The repos here give agents enough structure to
+search, plan, run small checks, organize results, and hand work back in a form
+that a human can read and improve.
 
-Our public repositories are built for scientific operators who want AI agents
-to do useful work without losing traceability, scientific caution, or control
-over private data.
+The common pattern is simple: describe the goal, point the agent at the
+repo-local instructions, run the first demo locally, then grow into a larger
+workflow when the direction is useful.
 
-## What We Build
+## Start Here
 
-- **Agent-ready workflows** with skill packs, prompts, schemas, validators,
-  examples, and compact handoff artifacts.
-- **Reviewable scientific outputs** that separate planning, evidence,
-  execution, and validation claims.
-- **Public-safe demos** using synthetic fixtures or explicitly public data.
-- **Compute-portable run shapes** that can start locally and escalate to
-  operator-owned cloud, HPC, or GPU resources when a reviewed lane earns it.
+| If you are working on... | Start with |
+| --- | --- |
+| Biosynthetic routes to target molecules | [biosymphony-bioprospector](https://github.com/BioSymphony/biosymphony-bioprospector) |
+| Natural-product gene clusters and genome mining | [biosymphony-genecluster](https://github.com/BioSymphony/biosymphony-genecluster) |
+| Fermentation or biomanufacturing experiment design | [biosymphony-ferm-doe](https://github.com/BioSymphony/biosymphony-ferm-doe) |
+| Cryo-EM maps, models, figures, and state comparison | [biosymphony-cryocore-public](https://github.com/BioSymphony/biosymphony-cryocore-public) |
 
-## Public Toolkits
+## Public Repos
 
 | Repository | Use it for |
 | --- | --- |
-| [biosymphony-bioprospector](https://github.com/BioSymphony/biosymphony-bioprospector) | Agentic biosynthetic pathway discovery: route expansion, enzyme and gene candidate mining, pathway stitching, and construct-hypothesis review packages. |
-| [biosymphony-ferm-doe](https://github.com/BioSymphony/biosymphony-ferm-doe) | Constraint-aware experimental design for fermentation and biomanufacturing: DoE planning, scale bridge checks, adaptive backend routing, and run packets. |
-| [biosymphony-cryocore-public](https://github.com/BioSymphony/biosymphony-cryocore-public) | Agent-ready cryo-EM workflows for map/model review, density support, structural figures, state comparison, and cloud run preparation. |
+| [biosymphony-bioprospector](https://github.com/BioSymphony/biosymphony-bioprospector) | Explore biosynthetic routes to target molecules, find enzyme and gene candidates, and turn pathway ideas into concrete follow-up work. |
+| [biosymphony-genecluster](https://github.com/BioSymphony/biosymphony-genecluster) | Run natural-product genome-mining campaigns across public plant, fungal, and microbial data sources. |
+| [biosymphony-ferm-doe](https://github.com/BioSymphony/biosymphony-ferm-doe) | Plan fermentation and biomanufacturing experiments, choose useful design families, check scale context, and prepare run packets. |
+| [biosymphony-cryocore-public](https://github.com/BioSymphony/biosymphony-cryocore-public) | Work through cryo-EM map and model questions, figure planning, state comparison, and local or cloud compute preparation. |
 
-## How To Use The Repos
+## What The Repos Share
+
+- Agent instructions in `AGENTS.md` and repo-local skill packs.
+- Local demos that use synthetic fixtures or explicitly public inputs.
+- Small command-line checks that help an agent catch simple mistakes early.
+- Examples and templates that turn broad scientific questions into bounded
+  pieces of work.
+- Paths from local runs to operator-owned cloud, HPC, or GPU resources when a
+  task needs more compute.
+
+## Using Them With An Agent
 
 1. Pick the toolkit that matches your research workflow.
 2. Read the repository `README.md` and `AGENTS.md`.
 3. Run the local smoke test or demo before giving an agent a larger task.
-4. Point your coding agent at the repo-local skill pack and keep private data
-   in operator-owned storage outside the public checkout.
+4. Point your coding agent at the repo-local skill pack.
+5. Keep private data in your own storage and out of public issues, examples,
+   and pull requests.
 
-## Safety And Release Boundaries
+## Working Style
 
-BioSymphony public repos are research infrastructure, not substitutes for
-scientific review, wet-lab validation, biosafety review, regulatory review,
-clinical guidance, LIMS, ELN, or GxP batch-record systems.
+These projects assume a scientist stays close to the work: setting goals,
+choosing data sources, approving compute, interpreting results, and deciding
+what is worth doing next. Agents help with search, setup, organization,
+repetition, and first-pass synthesis.
 
-We do not publish secrets, private datasets, unpublished biological data,
-private run logs, customer records, raw provider artifacts, or internal
-planning notes. Reusable mechanics are generalized before release.
+Use the public repos with appropriate scientific, biosafety, regulatory, and
+operational review for your setting.
 
 ## Contributing
 
 Issues and pull requests are welcome in the relevant repository. The most
-useful contributions are public-safe examples, documentation improvements,
-schema and validator fixes, reproducibility checks, and small adapters that
-make agent work easier to review.
+useful contributions are examples with public inputs, clearer documentation,
+small reproducibility fixes, and adapters that make agent work easier to run
+and review.
 
 Please keep private data, credentials, and unpublished biological details out
 of issues, pull requests, and examples.
-
