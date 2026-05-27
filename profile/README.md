@@ -5,8 +5,9 @@
 [Website](https://biosymphony.github.io/)
 
 BioSymphony develops public toolkits for agent-assisted biological research.
-The repos cover biosynthetic route exploration, natural-product genome mining,
-fermentation experiment design, and cryo-EM analysis support.
+The repos cover biosynthetic route exploration, structural biology campaign
+design, natural-product genome mining, fermentation experiment design, and
+cryo-EM analysis support.
 
 Each toolkit includes local instructions, public or synthetic examples, local
 checks, and templates for concrete outputs: search plans, candidate lists,
@@ -21,6 +22,9 @@ expanding the analysis.
   explores biosynthetic routes for target molecules. It identifies enzyme and
   gene candidates and turns pathway ideas into follow-up searches and
   experiment plans.
+- [Structure Factory](https://github.com/BioSymphony/biosymphony-structure-factory-public)
+  supports structural biology campaigns: binder design, structure mapping,
+  candidate screening, ranking, and local or cloud run plans.
 - [GeneCluster](https://github.com/BioSymphony/biosymphony-genecluster) runs
   natural-product genome-mining campaigns across public plant, fungal, and
   microbial data sources.
