@@ -13,21 +13,18 @@ workflow when the direction is useful.
 
 ## Start Here
 
-| If you are working on... | Start with |
-| --- | --- |
-| Biosynthetic routes to target molecules | [biosymphony-bioprospector](https://github.com/BioSymphony/biosymphony-bioprospector) |
-| Natural-product gene clusters and genome mining | [biosymphony-genecluster](https://github.com/BioSymphony/biosymphony-genecluster) |
-| Fermentation or biomanufacturing experiment design | [biosymphony-ferm-doe](https://github.com/BioSymphony/biosymphony-ferm-doe) |
-| Cryo-EM maps, models, figures, and state comparison | [biosymphony-cryocore-public](https://github.com/BioSymphony/biosymphony-cryocore-public) |
-
-## Public Repos
-
-| Repository | Use it for |
-| --- | --- |
-| [biosymphony-bioprospector](https://github.com/BioSymphony/biosymphony-bioprospector) | Explore biosynthetic routes to target molecules, find enzyme and gene candidates, and turn pathway ideas into concrete follow-up work. |
-| [biosymphony-genecluster](https://github.com/BioSymphony/biosymphony-genecluster) | Run natural-product genome-mining campaigns across public plant, fungal, and microbial data sources. |
-| [biosymphony-ferm-doe](https://github.com/BioSymphony/biosymphony-ferm-doe) | Plan fermentation and biomanufacturing experiments, choose useful design families, check scale context, and prepare run packets. |
-| [biosymphony-cryocore-public](https://github.com/BioSymphony/biosymphony-cryocore-public) | Work through cryo-EM map and model questions, figure planning, state comparison, and local or cloud compute preparation. |
+- [BioProspector](https://github.com/BioSymphony/biosymphony-bioprospector)
+  explores biosynthetic routes to target molecules, finds enzyme and gene
+  candidates, and turns pathway ideas into concrete follow-up work.
+- [GeneCluster](https://github.com/BioSymphony/biosymphony-genecluster) runs
+  natural-product genome-mining campaigns across public plant, fungal, and
+  microbial data sources.
+- [Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe) helps plan
+  fermentation and biomanufacturing experiments, choose useful design
+  families, check scale context, and prepare run packets.
+- [CryoCore](https://github.com/BioSymphony/biosymphony-cryocore-public) works
+  through cryo-EM map and model questions, figure planning, state comparison,
+  and local or cloud compute preparation.
 
 ## What The Repos Share
 
