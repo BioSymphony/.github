@@ -10,8 +10,8 @@ start: local instructions, public or synthetic examples, small checks, and
 templates for turning broad questions into work a scientist can review and
 extend.
 
-A typical use starts with a specific research goal, runs the smallest local
-demo, and expands from there when the result is worth pursuing.
+Most workflows begin with a concrete research question, a local demo, and a
+small result that can be inspected before the scope grows.
 
 ## Start Here
 
@@ -48,10 +48,10 @@ demo, and expands from there when the result is worth pursuing.
 
 ## Working Style
 
-These projects assume a scientist stays close to the work: setting goals,
-choosing data sources, approving compute, interpreting results, and deciding
-what is worth doing next. Agents help with search, setup, organization,
-repetition, and first-pass synthesis.
+Scientific judgment belongs with the researcher. The agent can collect
+context, prepare files, run routine checks, and summarize early findings. The
+researcher sets the question, chooses inputs, interprets outputs, and decides
+what belongs in the next analysis or experiment.
 
 Use the public repos with appropriate scientific, biosafety, regulatory, and
 operational review for your setting.
