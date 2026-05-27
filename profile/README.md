@@ -2,10 +2,12 @@
 
 **AI agent tools for biological research.**
 
+[Website](https://biosymphony.github.io/)
+
 BioSymphony builds open toolkits that help scientists use coding agents on
 real biological research tasks. The repos here give agents enough structure to
 search, plan, run small checks, organize results, and hand work back in a form
-that a human can read and improve.
+scientists can read and improve.
 
 The common pattern is simple: describe the goal, point the agent at the
 repo-local instructions, run the first demo locally, then grow into a larger
