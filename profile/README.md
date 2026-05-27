@@ -4,31 +4,32 @@
 
 [Website](https://biosymphony.github.io/)
 
-BioSymphony develops public toolkits for agent-assisted biological research.
-The repos cover biosynthetic route exploration, structural biology campaign
-design, natural-product genome mining, fermentation experiment design, and
-cryo-EM analysis support.
+BioSymphony builds public toolkits for using coding agents in biological
+research.
+Current repos support biosynthetic route exploration, structural biology
+campaigns, natural-product genome mining, fermentation experiment design, and
+cryo-EM analysis.
 
-Each toolkit includes local instructions, public or synthetic examples, local
-checks, and templates for concrete outputs: search plans, candidate lists,
-experiment designs, review notes, and compute setup.
+Each toolkit includes repo-local instructions, public or synthetic examples,
+setup checks, and templates for concrete outputs: search plans, candidate
+lists, experiment designs, review notes, and compute setup.
 
-Start with one research question and one local demo. Inspect the output before
+Begin with one research question and one local demo. Inspect the output before
 expanding the analysis.
 
 ## Start Here
 
 - [BioProspector](https://github.com/BioSymphony/biosymphony-bioprospector)
-  explores biosynthetic routes for target molecules. It identifies enzyme and
+  maps biosynthetic routes for target molecules. It identifies enzyme and
   gene candidates and turns pathway ideas into follow-up searches and
   experiment plans.
 - [Structure Factory](https://github.com/BioSymphony/biosymphony-structure-factory-public)
-  supports structural biology campaigns: binder design, structure mapping,
-  candidate screening, ranking, and local or cloud run plans.
-- [GeneCluster](https://github.com/BioSymphony/biosymphony-genecluster) runs
-  natural-product genome-mining campaigns across public plant, fungal, and
-  microbial data sources.
-- [Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe) helps plan
+  supports structural biology campaigns, including binder design, structure
+  mapping, candidate screening, ranking, and local or cloud run plans.
+- [GeneCluster](https://github.com/BioSymphony/biosymphony-genecluster)
+  searches public plant, fungal, and microbial data sources for natural-product
+  gene clusters.
+- [Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe) plans
   fermentation and biomanufacturing experiments. It prepares design options,
   compares scale context, and builds run plans.
 - [CryoCore](https://github.com/BioSymphony/biosymphony-cryocore-public)
@@ -37,12 +38,12 @@ expanding the analysis.
 
 ## What the Repos Share
 
-- Agent instructions in `AGENTS.md` and repo-local skill packs.
+- Repo-local agent instructions and skill packs.
 - Local demos that use synthetic fixtures or explicitly public inputs.
 - Setup and formatting checks for local runs.
 - Templates for search plans, experiment plans, review notes, and compute
   setup.
-- Paths for moving from local demos to operator-owned cloud, HPC, or GPU
+- Paths from local demos to operator-owned cloud, HPC, or GPU
   resources.
 
 ## Using Them with an Agent
