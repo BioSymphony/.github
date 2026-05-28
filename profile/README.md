@@ -14,20 +14,20 @@ outputs.
 
 ## Start Here
 
-- [BioProspector](https://github.com/BioSymphony/biosymphony-bioprospector)
+- [BioProspector](https://github.com/BioSymphony/bioprospector)
   maps biosynthetic routes for target molecules: enzyme and gene candidates,
   pathway ideas turned into follow-up searches and experiment plans.
-- [Structure Factory](https://github.com/BioSymphony/biosymphony-structure-factory-public)
+- [Structure Factory](https://github.com/BioSymphony/structure-factory)
   runs structural biology campaigns: binder design, structure mapping,
   candidate screening, ranking, and local or cloud run plans.
-- [GeneCluster](https://github.com/BioSymphony/biosymphony-genecluster)
+- [GeneCluster](https://github.com/BioSymphony/genecluster)
   searches public plant, fungal, and microbial data sources for
   natural-product gene clusters, with candidate comparison and follow-up
   planning.
-- [Ferm DoE](https://github.com/BioSymphony/biosymphony-ferm-doe)
+- [Ferm DoE](https://github.com/BioSymphony/ferm-doe)
   plans fermentation and biomanufacturing experiments: design options,
   scale-context comparison, and run plans.
-- [CryoCore](https://github.com/BioSymphony/biosymphony-cryocore-public)
+- [CryoCore](https://github.com/BioSymphony/cryocore)
   drives cryo-EM review: maps and models, figure planning, state comparison,
   and local or cloud compute setup.
 
