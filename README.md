@@ -9,6 +9,6 @@ GitHub renders the public organization profile from:
 profile/README.md
 ```
 
-Keep this repository safe for public release. Leave secrets, private run
-records, private datasets, unpublished biological data, pod IDs, network
-volume IDs, internal planning notes, and raw logs outside the repo.
+Keep this repository safe for public release. Leave secrets, non-public run
+records, non-public datasets, unpublished biological data, pod IDs, network
+volume IDs, non-release planning notes, and raw logs outside the repo.

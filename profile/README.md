@@ -6,8 +6,8 @@
 
 BioSymphony builds public toolkits for using coding agents in biological
 research. Current toolkits cover biosynthetic route exploration, structural
-biology campaigns, natural-product genome mining, fermentation experiment
-design, and cryo-EM review.
+biology campaigns, small-molecule design, natural-product genome mining,
+fermentation experiment design, and cryo-EM review.
 
 Each toolkit ships local demos, agent skill packs, and templates for concrete
 outputs.
@@ -20,6 +20,9 @@ outputs.
 - [Structure Factory](https://github.com/BioSymphony/structure-factory)
   runs structural biology campaigns: binder design, structure mapping,
   candidate screening, ranking, and local or cloud run plans.
+- [Small Molecules](https://github.com/BioSymphony/small-molecules)
+  routes small-molecule design work: tool selection, synthesis planning,
+  docking, affinity, ADMET, and license-aware implementation paths.
 - [GeneCluster](https://github.com/BioSymphony/genecluster)
   searches public plant, fungal, and microbial data sources for
   natural-product gene clusters, with candidate comparison and follow-up
@@ -39,6 +42,15 @@ outputs.
 - Templates for search plans, experiment plans, review notes, and compute
   setup.
 - Paths from local demos to operator-owned cloud, HPC, or GPU resources.
+
+## Companion tools
+
+- [NeoCloud Bridge](https://github.com/jvogan/symphony-neocloud-bridge)
+  gives agents guarded cloud workers: manifests, artifact proof, cost limits,
+  and cleanup.
+- [Proteus](https://github.com/jvogan/proteus)
+  provides structural biology automation across PyMOL, ChimeraX, AlphaFold, and
+  Rosetta.
 
 ## Using Them with an Agent
 
@@ -63,5 +75,5 @@ Issues and pull requests are welcome in the relevant repository. Helpful
 contributions include public examples, clearer documentation, reproducibility
 fixes, and adapters for local agent workflows.
 
-Please keep private data, credentials, and unpublished biological details out
+Please keep non-public data, credentials, and unpublished biological details out
 of issues, pull requests, and examples.
