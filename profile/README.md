@@ -51,6 +51,9 @@ outputs.
 - [Proteus](https://github.com/jvogan/proteus)
   provides structural biology automation across PyMOL, ChimeraX, AlphaFold, and
   Rosetta.
+- [BioVoice](https://github.com/jvogan/biovoice)
+  adds voice control for protein structures across PyMOL, ChimeraX, AlphaFold,
+  and Rosetta.
 
 ## Using Them with an Agent
 
