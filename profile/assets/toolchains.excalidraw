@@ -1,0 +1,747 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "heading-0",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "text": "GeneCluster \u00b7 Search And Annotate",
+      "fontSize": 22,
+      "fontFamily": 2,
+      "textAlign": "left",
+      "strokeColor": "#70cddd",
+      "roughness": 0
+    },
+    {
+      "id": "r0c0",
+      "type": "rectangle",
+      "x": 0,
+      "y": 48,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#70cddd",
+      "backgroundColor": "#153e53",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r0c0-title",
+      "type": "text",
+      "x": 123.0,
+      "y": 67,
+      "text": "MMseqs2",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r0c0-body",
+      "type": "text",
+      "x": 123.0,
+      "y": 101,
+      "text": "Search sequences",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a0c0",
+      "type": "arrow",
+      "x": 253,
+      "y": 97,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r0c1",
+      "type": "rectangle",
+      "x": 290,
+      "y": 48,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r0c1-title",
+      "type": "text",
+      "x": 413.0,
+      "y": 67,
+      "text": "Matched Proteins",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r0c1-body",
+      "type": "text",
+      "x": 413.0,
+      "y": 101,
+      "text": "Extract sequences",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a0c1",
+      "type": "arrow",
+      "x": 543,
+      "y": 97,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r0c2",
+      "type": "rectangle",
+      "x": 580,
+      "y": 48,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r0c2-title",
+      "type": "text",
+      "x": 703.0,
+      "y": 67,
+      "text": "HMMER / InterProScan",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r0c2-body",
+      "type": "text",
+      "x": 703.0,
+      "y": 101,
+      "text": "Annotate domains",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a0c2",
+      "type": "arrow",
+      "x": 833,
+      "y": 97,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r0c3",
+      "type": "rectangle",
+      "x": 870,
+      "y": 48,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r0c3-title",
+      "type": "text",
+      "x": 993.0,
+      "y": 67,
+      "text": "Quarto",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r0c3-body",
+      "type": "text",
+      "x": 993.0,
+      "y": 101,
+      "text": "Render comparisons",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "heading-1",
+      "type": "text",
+      "x": 0,
+      "y": 185,
+      "text": "Structure Factory \u00b7 Design And Evaluate",
+      "fontSize": 22,
+      "fontFamily": 2,
+      "textAlign": "left",
+      "strokeColor": "#70cddd",
+      "roughness": 0
+    },
+    {
+      "id": "r1c0",
+      "type": "rectangle",
+      "x": 0,
+      "y": 233,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#70cddd",
+      "backgroundColor": "#153e53",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r1c0-title",
+      "type": "text",
+      "x": 123.0,
+      "y": 252,
+      "text": "RFdiffusion3",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r1c0-body",
+      "type": "text",
+      "x": 123.0,
+      "y": 286,
+      "text": "Design backbones",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a1c0",
+      "type": "arrow",
+      "x": 253,
+      "y": 282,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r1c1",
+      "type": "rectangle",
+      "x": 290,
+      "y": 233,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r1c1-title",
+      "type": "text",
+      "x": 413.0,
+      "y": 252,
+      "text": "ProteinMPNN",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r1c1-body",
+      "type": "text",
+      "x": 413.0,
+      "y": 286,
+      "text": "Design sequences",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a1c1",
+      "type": "arrow",
+      "x": 543,
+      "y": 282,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r1c2",
+      "type": "rectangle",
+      "x": 580,
+      "y": 233,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r1c2-title",
+      "type": "text",
+      "x": 703.0,
+      "y": 252,
+      "text": "Boltz / Chai-1",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r1c2-body",
+      "type": "text",
+      "x": 703.0,
+      "y": 286,
+      "text": "Predict complexes",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a1c2",
+      "type": "arrow",
+      "x": 833,
+      "y": 282,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r1c3",
+      "type": "rectangle",
+      "x": 870,
+      "y": 233,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r1c3-title",
+      "type": "text",
+      "x": 993.0,
+      "y": 252,
+      "text": "ChimeraX",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r1c3-body",
+      "type": "text",
+      "x": 993.0,
+      "y": 286,
+      "text": "Inspect + render",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "heading-2",
+      "type": "text",
+      "x": 0,
+      "y": 370,
+      "text": "Ferm DoE \u00b7 Choose The Next Batch",
+      "fontSize": 22,
+      "fontFamily": 2,
+      "textAlign": "left",
+      "strokeColor": "#70cddd",
+      "roughness": 0
+    },
+    {
+      "id": "r2c0",
+      "type": "rectangle",
+      "x": 0,
+      "y": 418,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#70cddd",
+      "backgroundColor": "#153e53",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r2c0-title",
+      "type": "text",
+      "x": 123.0,
+      "y": 437,
+      "text": "validate",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r2c0-body",
+      "type": "text",
+      "x": 123.0,
+      "y": 471,
+      "text": "Check inputs",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a2c0",
+      "type": "arrow",
+      "x": 253,
+      "y": 467,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r2c1",
+      "type": "rectangle",
+      "x": 290,
+      "y": 418,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r2c1-title",
+      "type": "text",
+      "x": 413.0,
+      "y": 437,
+      "text": "generate-design",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r2c1-body",
+      "type": "text",
+      "x": 413.0,
+      "y": 471,
+      "text": "Propose experiments",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a2c1",
+      "type": "arrow",
+      "x": 543,
+      "y": 467,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r2c2",
+      "type": "rectangle",
+      "x": 580,
+      "y": 418,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r2c2-title",
+      "type": "text",
+      "x": 703.0,
+      "y": 437,
+      "text": "analyze",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r2c2-body",
+      "type": "text",
+      "x": 703.0,
+      "y": 471,
+      "text": "Use supplied results",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "a2c2",
+      "type": "arrow",
+      "x": 833,
+      "y": 467,
+      "width": 29,
+      "height": 0,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "r2c3",
+      "type": "rectangle",
+      "x": 870,
+      "y": 418,
+      "width": 246,
+      "height": 98,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "r2c3-title",
+      "type": "text",
+      "x": 993.0,
+      "y": 437,
+      "text": "plan-wave2",
+      "fontSize": 19,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "r2c3-body",
+      "type": "text",
+      "x": 993.0,
+      "y": 471,
+      "text": "Choose the next batch",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "lab-note",
+      "type": "text",
+      "x": 0,
+      "y": 533,
+      "text": "Analysis uses supplied data; lab work is separate.",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "left",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#081c31",
+    "exportBackground": true
+  },
+  "files": {}
+}

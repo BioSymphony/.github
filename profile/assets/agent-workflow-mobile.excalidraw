@@ -1,0 +1,343 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "question",
+      "type": "rectangle",
+      "x": 0,
+      "y": 0,
+      "width": 340,
+      "height": 94,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "question-title",
+      "type": "text",
+      "x": 170.0,
+      "y": 19,
+      "text": "Your Research Question",
+      "fontSize": 21,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "question-body",
+      "type": "text",
+      "x": 170.0,
+      "y": 53,
+      "text": "Data + compute limits",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "knowledge",
+      "type": "rectangle",
+      "x": 0,
+      "y": 126,
+      "width": 340,
+      "height": 94,
+      "strokeColor": "#70cddd",
+      "backgroundColor": "#153e53",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "knowledge-title",
+      "type": "text",
+      "x": 170.0,
+      "y": 145,
+      "text": "BioSymphony Tool Knowledge",
+      "fontSize": 21,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "knowledge-body",
+      "type": "text",
+      "x": 170.0,
+      "y": 179,
+      "text": "Methods \u00b7 inputs \u00b7 commands",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "agent",
+      "type": "rectangle",
+      "x": 0,
+      "y": 290,
+      "width": 340,
+      "height": 94,
+      "strokeColor": "#70cddd",
+      "backgroundColor": "#153e53",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "agent-title",
+      "type": "text",
+      "x": 170.0,
+      "y": 309,
+      "text": "Your AI Agent",
+      "fontSize": 21,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "agent-body",
+      "type": "text",
+      "x": 170.0,
+      "y": 343,
+      "text": "Choose \u00b7 call \u00b7 connect",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "tools",
+      "type": "rectangle",
+      "x": 0,
+      "y": 444,
+      "width": 340,
+      "height": 94,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "tools-title",
+      "type": "text",
+      "x": 170.0,
+      "y": 463,
+      "text": "Scientific Tools",
+      "fontSize": 21,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "tools-body",
+      "type": "text",
+      "x": 170.0,
+      "y": 497,
+      "text": "CLI \u00b7 Python \u00b7 API",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "results",
+      "type": "rectangle",
+      "x": 0,
+      "y": 598,
+      "width": 340,
+      "height": 94,
+      "strokeColor": "#456680",
+      "backgroundColor": "#102b45",
+      "fillStyle": "solid",
+      "strokeWidth": 1.4,
+      "roughness": 0,
+      "roundness": {
+        "type": 3
+      }
+    },
+    {
+      "id": "results-title",
+      "type": "text",
+      "x": 170.0,
+      "y": 617,
+      "text": "Analysis Results",
+      "fontSize": 21,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#edf5f4",
+      "roughness": 0
+    },
+    {
+      "id": "results-body",
+      "type": "text",
+      "x": 170.0,
+      "y": 651,
+      "text": "Scores \u00b7 sequences \u00b7 figures",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#bdd2df",
+      "roughness": 0
+    },
+    {
+      "id": "question-agent",
+      "type": "arrow",
+      "x": 348,
+      "y": 47,
+      "width": 27,
+      "height": 290,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          27,
+          0
+        ],
+        [
+          27,
+          290
+        ],
+        [
+          0,
+          290
+        ]
+      ],
+      "strokeColor": "#70cddd",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "knowledge-agent",
+      "type": "arrow",
+      "x": 170,
+      "y": 228,
+      "width": 0,
+      "height": 54,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          54
+        ]
+      ],
+      "strokeColor": "#70cddd",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "agent-tools",
+      "type": "arrow",
+      "x": 170,
+      "y": 392,
+      "width": 0,
+      "height": 44,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          44
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "tools-results",
+      "type": "arrow",
+      "x": 170,
+      "y": 546,
+      "width": 0,
+      "height": 44,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          44
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "iterate",
+      "type": "arrow",
+      "x": -8,
+      "y": 645,
+      "width": 30,
+      "height": 308,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -30,
+          0
+        ],
+        [
+          -30,
+          -308
+        ],
+        [
+          0,
+          -308
+        ]
+      ],
+      "strokeColor": "#ebbe72",
+      "strokeWidth": 1.8,
+      "roughness": 0,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#081c31",
+    "exportBackground": true
+  },
+  "files": {}
+}
